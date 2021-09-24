@@ -1,0 +1,16 @@
+{
+  "name": "reproduce-rollup-1001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "rollup -c"
+  },
+  "author": "loynoir",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-typescript": "^8.2.5",
+    "@tsconfig/node14": "^1.0.1",
+    "rollup": "^2.57.0"
+  }
+}
